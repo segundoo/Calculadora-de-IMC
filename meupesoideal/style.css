@@ -1,19 +1,35 @@
 body {
     background: rgb(131,111,255);
     font: normal 15pt arial;
-    color: rgb(255, 255, 255);
+    font-size: 27px;
+    color: aliceblue;
     text-align: center;
+    text-shadow: black 0.2em 0.3em 0.3em;
 }
 section {
     background: rgba(71, 61, 139, 0.205);
-    border-radius: 50px;
+    border-radius: 10px;
     margin: auto;
-    width: 600px;
-    height: 200px;
+    width: 400px;
+    height: 150px;
     text-align: center;
+    box-shadow: black 0.3em 0.3em 0.7em;
     font: normal 15pt arial;
     color: aliceblue;  
 }
 input {
     margin-top: 50px;
+    width: 70px;
+    height: 20px;
+    border-radius: 20px;
+    border: 0;
+    font: bold 15px arial;
+    box-shadow: black 0.3em 0.3em 0.7em;
+
+    background-color: rgb(131,111,255);
+    color: aliceblue;
+}
+div {
+    font: bold 22px arial;
+    text-shadow: black 0.2em 0.2em 0.1em;
 }
