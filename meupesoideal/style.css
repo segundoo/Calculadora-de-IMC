@@ -1,0 +1,19 @@
+body {
+    background: rgb(131,111,255);
+    font: normal 15pt arial;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section {
+    background: rgba(71, 61, 139, 0.205);
+    border-radius: 50px;
+    margin: auto;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    font: normal 15pt arial;
+    color: aliceblue;  
+}
+input {
+    margin-top: 50px;
+}
