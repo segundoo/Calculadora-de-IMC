@@ -10,8 +10,8 @@ section {
     background: rgba(71, 61, 139, 0.205);
     border-radius: 10px;
     margin: auto;
-    width: 400px;
-    height: 150px;
+    width: 700px;
+    height: 700px;
     text-align: center;
     box-shadow: black 0.3em 0.3em 0.7em;
     font: normal 15pt arial;
@@ -23,13 +23,25 @@ input {
     height: 20px;
     border-radius: 20px;
     border: 0;
-    font: bold 15px arial;
+    font: bold 10pt arial;
     box-shadow: black 0.3em 0.3em 0.7em;
 
     background-color: rgb(131,111,255);
     color: aliceblue;
 }
 div {
-    font: bold 22px arial;
+    font: bold 22pt arial;
     text-shadow: black 0.2em 0.2em 0.1em;
+}
+p#eximc {
+    font: normal 12pt arial;
+    text-align: justify;
+    text-shadow: 0px 0px 0px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img {
+    margin: auto;
+    border-radius: 15px;
 }
